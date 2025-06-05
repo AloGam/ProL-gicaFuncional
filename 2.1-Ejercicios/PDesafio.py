@@ -3,9 +3,9 @@ def hacer_preguntas():
         "¿Te interesa la administración de redes y la seguridad informática?",
         "¿Te gusta trabajar con bases de datos y manejar grandes volúmenes de información?",
         "¿Disfrutas desarrollando aplicaciones y software?",
-        "¿Te apasiona la programación a bajo nivel y el hardware?",
-        "¿Te interesa el modelado y la animación 3D?",
-        "¿Te gustaría gestionar proyectos de software y coordinar equipos?"
+        "¿Te apasiona la programación y el hardware?",
+        "¿Te interesa el modelado y la animación?",
+        "¿Te gustaría gestionar proyectos y coordinar equipos?"
     ]
     
     ramas = {
