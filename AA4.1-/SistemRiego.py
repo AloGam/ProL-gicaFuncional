@@ -1,7 +1,7 @@
 # Estado de sensores
 humedad_suelo = 'baja'
 temperatura = 30
-hora = 14
+hora = 20
 prob_lluvia = False
 # Función para verificar si es la hora adecuada para regar
 def hora_adecuada():
